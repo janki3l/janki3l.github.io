@@ -1,4 +1,4 @@
-import { CountUp } from "../node_modules/countup.js/dist/countUp.js";
+import { CountUp } from "https://github.com/janki3l/janki3l.github.io/tree/main/node_modules/countup.js/dist/countUp.js";
 // make navbar smaller
 AOS.init();
 
